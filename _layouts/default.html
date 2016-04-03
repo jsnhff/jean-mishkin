@@ -3,13 +3,20 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="bg-lighter-gray">
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <div class="full-width">
+        <div class="col-11 sm-col-9 md-col-8 lg-col-7 mx-auto px2">
+            <div class="clearfix bg-white">
+                <div class="lg-col-9 mx-auto mt3 mb4 px3">
+                    {{ content }}
+                </div>
+                {% if site.twitter_feed == 'true' %}
+                    {% include twitter-feed.html %}
+                {% endif %}
+            </div>
       </div>
     </div>
 

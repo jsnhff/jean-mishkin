@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Jean Mishkin has more than twenty years of experience as an editor helping students write compelling personal essays for college applications, persuasive cover letters and resumés for internships and jobs, scholarly and creative theses, and competitive fellowship applications.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Students who have worked with Jean have been accepted to elite and highly selective colleges, universities and fine art & design programs, have been selected for prestigious internships, have garnered top honors for both undergraduate and graduate theses, and have been awarded competitive fellowships.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Jean holds a BA, cum laude, and an MA from the University of Pennsylvania and an MBA from the University of Chicago’s Booth School of Business. She currently teaches adult literacy, mentors at-risk youth and serves on the Parent Council of an internationally renowned art and design college working to enhance outreach to talented students.

@@ -1,38 +1,28 @@
-<footer class="site-footer">
+<footer class="container px2 py3">
 
-  <div class="wrapper">
+<div class="clearfix">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <div class="light-gray">
+        <div class="center full-width">
+            <p class="inline-block p1">&copy; {{ site.time | date: '%Y' }} Jean Mishkin</p>
+            <a class="inline-block p1 light-gray" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <p class="inline-block p1">917-873-5326</p>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+        </div>
+    
+        <div class="center p1">
+            <span class="p1">
+                {% if site.twitter_username %}
+                {% include icon-twitter.html username=site.twitter_username %}
+                {% endif %}
+            </span>
+            <span class="p1">
+            {% include icon-github.html username="Jean-Mishkin-Editing-222584354461610" %}
+            </span>
+        </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
     </div>
 
-  </div>
+</div>
 
 </footer>
