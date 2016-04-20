@@ -11,7 +11,7 @@ email: jean@jeanmishkin.com
 description: > # this means to ignore newlines until "baseurl:"
     Jean Mishkin has more than twenty years of experience as an editor helping students write compelling personal essays for college applications, persuasive cover letters and resumés for internships and jobs, scholarly and creative theses, and competitive fellowship applications.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jsnhff.github.io/jean-mishkin/" # the base hostname & protocol for your site
 twitter_username: jeanmishkin
 twitter_feed: false
 # Build settings
