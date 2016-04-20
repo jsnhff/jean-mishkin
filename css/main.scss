@@ -3,7 +3,7 @@
 ---
 
 table {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .icon {
@@ -11,8 +11,21 @@ table {
     height: auto;
 }
 
-body {
-    background-image: url ("images/background.gif");
+.float-left {
+    float: left;
 }
 
-@import '../_sass/_colors';
+h1 a:hover {
+    text-decoration: none;
+}
+
+.didot-header {
+    font-family: 'DidotLTPro-Roman';
+    font-weight: normal;
+    font-size: 2.75rem;
+}
+
+.didot {
+    font-family: 'DidotLTPro-Roman';
+    font-weight: normal;
+}
