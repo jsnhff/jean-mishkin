@@ -14,5 +14,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jsnhff.github.io/jean-mishkin/" # the base hostname & protocol for your site
 twitter_username: jeanmishkin
 twitter_feed: false
+
 # Build settings
 markdown: kramdown
+
+gems:
+- jekyll-sitemap
