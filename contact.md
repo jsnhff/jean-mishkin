@@ -17,7 +17,7 @@ method="POST">
     <textarea rows="4" cols="50" name="information" placeholder="It was a bright cold day in April, and the clocks were striking thirteen." class="block mb1 field border-box" style="width:100%;"></textarea>
     <!-- Hidden inputs that help send the user to a nice thank you page
          and set the subject so filtering is easy. -->
-    <!-- CHANGE THIS IN PRODUCTION -->
+    <!-- CHANGE THIS IN PRODUCTION to point to www.jeanmishkin.com/thanks -->
     <input type="hidden" name="_next" value="//127.0.0.1:4000/thanks/" />
     <input type="hidden" name="_subject" value="New editing request!" />
     <input type="text" name="_gotcha" style="display:none" />
