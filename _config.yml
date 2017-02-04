@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 email: jean@jeanmishkin.com
-description: 'Jean Mishkin has more than twenty years of experience as an editor helping
+description: Jean Mishkin has more than twenty years of experience as an editor helping
   students write compelling personal essays for college applications, persuasive cover
   letters and resumés for internships and jobs, scholarly and creative theses, and
-  competitive fellowship applications.'
+  competitive fellowship applications.
 baseurl: ''
 url: http://jsnhff.github.io/jean-mishkin
 twitter_username: jeanmishkin
