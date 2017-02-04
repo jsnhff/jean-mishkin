@@ -8,7 +8,7 @@ Phone:  917-873-5326
 
 Or send Jean an email:
 
-<form action="https://formspree.io/jsnhff@gmail.com"
+<form action="https://formspree.io/jeanmishkin@gmail.com"
 method="POST">
     <label for="name">Name*</label>
     <input type="text" name="name" placeholder="James Joyce" class="block mb1 field">
