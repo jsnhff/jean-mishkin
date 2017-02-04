@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
+
 Phone:  917-873-5326
 
 Or send Jean an email:

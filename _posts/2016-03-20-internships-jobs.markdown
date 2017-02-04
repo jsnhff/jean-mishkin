@@ -1,10 +1,11 @@
 ---
+title: Internships & Jobs
+date: 2016-03-20 17:00:00 Z
+permalink: "/internships-jobs/"
 layout: post
-title:  "Internships & Jobs"
-subtitle: "Cover letters - Resumes"
-date:   2016-03-20 17:00:00 -0000
-permalink: /internships-jobs/
+subtitle: Cover letters - Resumes
 ---
+
 Jean Mishkin has provided successful support to students applying for both internships and jobs with non-profit organizations, with government agencies, and with highly sought-after private sector firms.
 
 Increasing numbers of undergraduate and graduate admissions committees look for applicants who have participated in high quality internships that are consistent with the student’s expressed academic or career aspirations.

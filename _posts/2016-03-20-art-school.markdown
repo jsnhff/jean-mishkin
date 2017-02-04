@@ -1,10 +1,11 @@
 ---
+title: Art School
+date: 2016-03-20 17:00:00 Z
+permalink: "/art-school/"
 layout: post
-title: "Art School"
-subtitle: "Uncommon applications"
-date:   2016-03-20 17:00:00 -0000
-permalink: /art-school/
+subtitle: Uncommon applications
 ---
+
 There are no common applications for art school.
 
 Each fine art and design college and each art and design program within a liberal arts university has its own, unique portfolio requirement.

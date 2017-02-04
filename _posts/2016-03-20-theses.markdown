@@ -1,10 +1,11 @@
 ---
+title: Theses
+date: 2016-03-20 17:00:00 Z
+permalink: "/theses/"
 layout: post
-title:  "Theses"
-subtitle: "Undergraduate - Graduate"
-date:   2016-03-20 17:00:00 -0000
-permalink: /theses/
+subtitle: Undergraduate - Graduate
 ---
+
 Writing one’s thesis is both a scholarly endeavor and a creative process.  Jean Mishkin understands the balance that is required to produce an outstanding thesis.
 
 By tailoring her editorial support to the specific needs of each project, Jean Mishkin helps her clients produce their best work – many of her clients have won top honors for their theses and all of her clients have received their degrees on time.

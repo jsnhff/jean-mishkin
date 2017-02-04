@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
+
 <img src="{{ site.url }}/images/portrait.jpg" class="float-left mr3 mb1">
 Jean Mishkin has more than twenty years of experience as an editor helping students write compelling personal essays for college applications, persuasive cover letters and resumés for internships and jobs, scholarly and creative theses, and competitive fellowship applications.
 

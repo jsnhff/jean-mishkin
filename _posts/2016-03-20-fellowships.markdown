@@ -1,10 +1,11 @@
 ---
+title: Fellowships
+date: 2016-03-20 17:00:00 Z
+permalink: "/fellowships/"
 layout: post
-title:  "Fellowships"
-subtitle: "Proposals - Applications"
-date:   2016-03-20 17:00:00 -0000
-permalink: /fellowships/
+subtitle: Proposals - Applications
 ---
+
 The competition for post-graduate fellowships is fierce.
 
 The numbers of applicants for these coveted positions continues to increase as the financial support available for them continues to decline.

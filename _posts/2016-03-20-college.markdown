@@ -1,10 +1,11 @@
 ---
+title: College
+date: 2016-03-20 17:00:00 Z
+permalink: "/college/"
 layout: post
-title:  "College"
-subtitle: "Tell me your story"
-date:   2016-03-20 17:00:00 -0000
-permalink: /college/
+subtitle: Tell me your story
 ---
+
 Each year, admissions committees sort through GPAs, SAT and ACT scores, portfolios, lists of honors and awards and activities, and letters of recommendation trying to build a portrait of what each applicant is really like.
 
 And each year, once the admissions officers have sorted through all the numbers and all the lists and letters, they complete their portrait of you by reading your essays.
