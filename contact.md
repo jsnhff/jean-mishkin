@@ -19,7 +19,7 @@ method="POST">
     <!-- Hidden inputs that help send the user to a nice thank you page
          and set the subject so filtering is easy. -->
     <input type="hidden" name="_next" value="http://jeanmishkin.com/thanks/" />
-    <input type="hidden" name="_subject" value="New editing request!" />
+    <input id="subject" type="hidden" name="_subject" value="New editing request!" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send" class="btn btn-primary mt1">
 </form>
