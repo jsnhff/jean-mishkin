@@ -21,5 +21,5 @@ method="POST">
     <input type="hidden" name="_next" value="http://jeanmishkin.com/thanks/" />
     <input id="subject" type="hidden" name="_subject" value="New editing request!" />
     <input type="text" name="_gotcha" style="display:none" />
-    <input type="submit" value="Send" class="btn btn-primary mt1">
+    <input id="submit" type="submit" value="Send" class="btn btn-primary mt1">
 </form>
