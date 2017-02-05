@@ -8,3 +8,10 @@ if(mobileNav.hasClass('hide')){
         mobileNav.addClass('hide');
     };
 });
+
+$(document).ready(function() {
+    var $sub = $("#subject");
+    $("#email").on("input", function() {
+        $sub.val("Incoming editing request from " + $(this).val());
+    });
+});
