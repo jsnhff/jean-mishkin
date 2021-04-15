@@ -4,9 +4,7 @@ permalink: "/contact/"
 layout: page
 ---
 
-Phone:  917-873-5326
-
-Or send Jean an email:
+Send Jean an email:
 
 <form action="https://formspree.io/jean@jeanmishkin.com"
 method="POST">
